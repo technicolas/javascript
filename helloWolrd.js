@@ -3,6 +3,7 @@
 // @namespace   https://nico.las
 // @include https://*.google.be/*
 // @version     1
+// @icon				http://technicolas.nexgate.ch/icones/ZN_Rond/favicon.ico
 // ==/UserScript==
 
 var input=document.createElement("input");
